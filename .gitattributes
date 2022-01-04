@@ -1,4 +1,1 @@
-*.html linguist-detectable=false
-*.R linguist-detectable=true
-static/* linguistic-vendored
-.r linguist-vendored = false
+*.TSQL linguist-detectable=false
